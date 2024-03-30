@@ -1,3 +1,3 @@
 # TO DO LIST
 
-Encontre o deploy dessa aplicação em laycipriano.com.br
+Encontre o deploy dessa aplicação em (laycipriano.com.br)
